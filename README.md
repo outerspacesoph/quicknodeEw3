@@ -1,2 +1,4 @@
 Sample NFT contract for EarnWeb3
 NFT Contract Address: 0x4011Ba29D8fB09661992B705649624AAdb38cE5D
+
+Thirdweb: 0x19663C7191eE3e44f298206F3AEec7A9eacF3aDD
